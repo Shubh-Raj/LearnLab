@@ -92,7 +92,7 @@ function Home() {
   };
 
   return (
-    <div className="bg-gradient-to-r from-black to-blue-750 ">
+    <div className="bg-gradient-to-r from-black to-blue-950 ">
       <div className="h-[1250px] md:h-[1050px] text-white container mx-auto">
         {/* Header */}
         <header className="flex items-center justify-between p-6 ">
