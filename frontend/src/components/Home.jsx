@@ -92,7 +92,7 @@ function Home() {
   };
 
   return (
-    <div className="bg-gradient-to-r from-black to-blue-950 ">
+    <div className="bg-gradient-to-r from-black to-blue-750 ">
       <div className="h-[1250px] md:h-[1050px] text-white container mx-auto">
         {/* Header */}
         <header className="flex items-center justify-between p-6 ">
@@ -215,13 +215,13 @@ function Home() {
               <h3 className="text-lg font-semibold md:mb-4">connects</h3>
               <ul className=" space-y-2 text-gray-400">
                 <li className="hover:text-white cursor-pointer duration-300">
-                  youtube- learn coding
+                  Youtube- Learn Lab
                 </li>
                 <li className="hover:text-white cursor-pointer duration-300">
-                  telegram- learn coding
+                  Telegram- Learn Lab
                 </li>
                 <li className="hover:text-white cursor-pointer duration-300">
-                  Github- learn coding
+                  Github- Learn Lab
                 </li>
               </ul>
             </div>
